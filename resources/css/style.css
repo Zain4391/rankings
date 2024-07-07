@@ -1,6 +1,6 @@
 body {
     background-color: rgb(49, 48, 48);
-    background-image: url('../Image/Em_bg.jpg');
+    background-image: url('../Images/Em_bg.jpg');
 }
 
 h2,p{
@@ -17,7 +17,7 @@ h2{
 
 
 #mmlp{
-    background-image: url('../Image/Em_mmlp_bg.jpg');
+    background-image: url('../Images/Em_mmlp_bg.jpg');
     background-repeat: no-repeat;
     background-position: right;
     margin-bottom: 5pt;
@@ -27,7 +27,7 @@ h2{
 }
 
 #show{
-    background-image: url('../Image/Em_show_landscape.jfif');
+    background-image: url('../Images/Em_show_landscape.jfif');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right;
@@ -38,7 +38,7 @@ h2{
 }
 
 #encore{
-    background-image: url('../Image/EM_encore_bg.png');
+    background-image: url('../Images/EM_encore_bg.png');
     background-repeat: no-repeat;
     background-position: right;
     margin-bottom: 5pt;
@@ -48,7 +48,7 @@ h2{
 }
 
 #relapse{
-    background-image: url('../Image/Em_relapse_bg.jpg');
+    background-image: url('../Images/Em_relapse_bg.jpg');
     background-repeat: no-repeat;
     background-position: left;
     margin-bottom: 5pt;
@@ -57,7 +57,7 @@ h2{
     margin-left: 25%;
 }
 #recovery{
-    background-image: url('../Image/Em_recovery_bg.jpg');
+    background-image: url('../Images/Em_recovery_bg.jpg');
     background-repeat: no-repeat;
     background-position: right;
     margin-bottom: 5pt;
@@ -67,7 +67,7 @@ h2{
 }
 
 #revival{
-    background-image: url('../Image/Em_revival.png');
+    background-image: url('../Images/Em_revival.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -78,7 +78,7 @@ h2{
 }
 
 #kamakazee{
-    background-image: url('../Image/Em_kamakazee_bg.png');
+    background-image: url('../Images/Em_kamakazee_bg.png');
     background-repeat: no-repeat;
     background-position: right;
     background-size: cover;
@@ -89,7 +89,7 @@ h2{
 }
 
 #MTBMB{
-    background-image: url('../Image/Em_mtbmb_A_bg.jfif');
+    background-image: url('../Images/Em_mtbmb_A_bg.jfif');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -100,7 +100,7 @@ h2{
 }
 
 #Side{
-    background-image: url('/resources/Image/Em_mtbmb_B_bg.png');
+    background-image: url('/resources/Images/Em_mtbmb_B_bg.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
